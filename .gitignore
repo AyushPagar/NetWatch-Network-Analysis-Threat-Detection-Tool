@@ -1,0 +1,10 @@
+/target/
+/uploads/
+/test-files/
+*.pcap
+*.pcapng
+*.log
+.env
+.env.*
+!.env.example
+/.vscode/
