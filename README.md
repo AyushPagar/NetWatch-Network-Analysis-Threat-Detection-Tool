@@ -31,4 +31,4 @@ Install Rust and Cargo using [rustup](https://rustup.rs/).
 From the project folder:
 
 ```powershell
-cargo run -
+cargo run 
